@@ -1,0 +1,30 @@
+.orange {
+    color: orange;
+}
+
+body {}
+
+h1 {
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+}
+
+.width {
+    padding-left: 5%;
+    width: 50%;
+}
+
+.width img {
+    width: 80%;
+}
+
+.link {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange tomato);
+    border-radius: 5px;
+    font-weight: 700;
+}
